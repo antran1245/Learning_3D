@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Learning 3D",
+"dataUrl": "Learning_3D.data.unityweb",
+"wasmCodeUrl": "Learning_3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Learning_3D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
